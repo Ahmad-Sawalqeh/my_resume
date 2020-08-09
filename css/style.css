@@ -349,6 +349,7 @@ a {
 .site-service-item:hover .fa-php,
 .site-service-item:hover .fa-tasks,
 .site-service-item:hover .fa-user-friends,
+.site-service-item:hover .fa-chrome,
 .site-service-item:hover .fa-cogs {
     color: #fff;
 }
